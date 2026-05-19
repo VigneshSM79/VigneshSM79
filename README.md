@@ -11,7 +11,7 @@ Indie hacker based in Chennai, India. I build AI-powered apps that solve real pr
 | 🚗 **[AutoLoan CRM](https://github.com/VigneshSM79/autoloan)** | Multi-tenant CRM for auto-loan dealerships — lead pipeline, SMS campaigns, AI voice calls, HubSpot sync. Supabase + React/TS. |
 | 📺 **[YouTube Outlier Finder](https://github.com/VigneshSM79/content-intelligence)** | Surfaces YouTube videos that significantly outperform their channel's average — finds what the algorithm is actually pushing in any niche. |
 | 📵 **[Scroll-Less](https://github.com/VigneshSM79/doom-scroll-less)** | Detects and intervenes in doom-scrolling. Browser extension + Android app (shipped to Play Store). |
-| 🦷 **[Lotus Dental Care](https://github.com/VigneshSM79/Lotus-Dental-)** | Marketing site for a multi-doctor dental clinic. Next.js 16 + Tailwind 4. |
+| 🦷 **[Lotus Dental Care](https://github.com/VigneshSM79/lotus-dental-care)** | Marketing site for a multi-doctor dental clinic. Next.js 16 + Tailwind 4. |
 | 🛕 **[Hare Krishna Temple Avadi](https://github.com/VigneshSM79/hare_krishna_website)** | Temple website with events, festival calendar, gallery, donations, and a volunteer admin panel. |
 
 ---
